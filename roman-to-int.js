@@ -56,7 +56,6 @@ function romanToInt(s) {
         'CM': 900,
         'M': 1000
     }
-
     let num = 0;
     let i = 0;
 
